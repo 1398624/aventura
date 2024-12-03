@@ -1,0 +1,22 @@
+body {
+background-color:rgb(215, 239, 250)
+font-family:black
+display:flex;
+justify-content: center;
+align-items: center;
+heigt: 700px;
+margin: 0;
+}
+
+button {
+background-color: blueviolet;
+color: white;
+}
+
+.passo{
+    display: nome;
+}
+
+.passo.ativo{
+    display:block;
+}
